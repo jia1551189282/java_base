@@ -1,4 +1,4 @@
-package com.jiajia.study;
+package com.jiajia.study.thread;
 
 /**
  * @author zjiajia

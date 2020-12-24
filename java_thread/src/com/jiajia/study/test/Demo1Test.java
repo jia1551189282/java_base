@@ -1,6 +1,6 @@
 package com.jiajia.study.test;
 
-import com.jiajia.study.ThreadDemo1;
+import com.jiajia.study.thread.ThreadDemo1;
 
 /**
  * @author zjiajia
